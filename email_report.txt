@@ -1,0 +1,19 @@
+EMAIL AUTOMATION REPORT
+Time: 2026-05-06 01:13:37.709312
+
+Success Count: 9
+Failed Count: 1
+
+Successful Emails:
+user1@example.com
+user2@example.com
+user4@example.com
+user5@example.com
+user6@example.com
+user7@example.com
+user8@example.com
+user9@example.com
+user10@example.com
+
+Failed Emails:
+invalid-email
